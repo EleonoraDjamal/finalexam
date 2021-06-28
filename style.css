@@ -1,0 +1,43 @@
+p1{
+    font-family: "Gill Sans", sans-serif;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 60;
+}
+
+h2{
+    background-color: #F0D9E7;
+}
+
+img {
+    border-radius: 50%;
+    border-color: #f4eaf3;
+    width: 140px;
+    height: 200px;
+    margin: auto;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+#leftcolumn {
+    background-color: #F0D9E7;
+    margin: 10px 5px 10px 20px;
+    padding: 10px;
+    height: 750px;
+    width: 45%;
+    float: left;
+  }
+  
+  #rightcolumn {
+    float: right;
+    margin: 10px 0px 10px 10px;
+    padding: 10px;
+    height: 750px;
+    width: 49%;
+    display: inline;
+    position: relative;
+  }
